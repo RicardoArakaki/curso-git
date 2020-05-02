@@ -1,3 +1,5 @@
 GIT curso
 
-Ricardo Luis
+Ricardo Luis Morisugi Arakaki
+
+Difícil!!! 
