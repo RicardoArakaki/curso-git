@@ -2,4 +2,6 @@ GIT curso
 
 Ricardo Luis Morisugi Arakaki
 
-Difícil!!! 
+Difícil!!!
+
+Vim parece ser melhor. 
